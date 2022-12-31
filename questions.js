@@ -1,82 +1,90 @@
 let questions = [
     {
       text: `What is the first book of the Old Testament?
-        A. Leviticus
-        B. Numbers
-        C. Genesis
-        D. Exodus`,
-      correctAnswer: "C"
+        a. Leviticus
+        b. Numbers
+        c. Genesis
+        d. Exodus`,
+      correctAnswer: "c"
     },
     {
       text: `How would one say goodbye in Spanish?
-        A. Hola
-        B. Au Revoir
-        C. Salir
-        D. Adiós`,
-      correctAnswer: "D"
+        a. Hola
+        b. Au Revoir
+        c. Salir
+        d. Adiós`,
+      correctAnswer: "d"
     },
     {
       text: `What is the French word for 'hat'?
-        A.  Casque
-        B. Chapeau
-        C. Bonnet
-        D. Écharpe`,
-      correctAnswer: "B"
+        a.  Casque
+        b. Chapeau
+        c. Bonnet
+        d. Écharpe`,
+      correctAnswer: "b"
     },
     {
       text: `The New York Times slogan is, 'All the News That's Fit to...';
-        A. Digest
-        B. Look
-        C. Read
-        D. Print`,
-      correctAnswer: "D"
+        a. Digest
+        b. Look
+        c. Read
+        d. Print`,
+      correctAnswer: "d"
     },
     {
       text: `Which restaurant's mascot is a clown?
-        A. Chick-Fil-A
-        B. Snaonic
-        C. McDold's
-        D. Whataburger`,
-      correctAnswer: "C"
+        a. Chick-Fil-A
+        b. Sonic
+        c. McDold's
+        d. Whataburger`,
+      correctAnswer: "c"
     },
     {
       text: `Which of the following is the IATA code for Manchester Airport?
-        A. MAN
-        B. EGLL
-        C. LHR
-        D. EGCC`,
-      correctAnswer: "A"
+        a. MAN
+        b. EGLL
+        c. LHR
+        d. EGCC`,
+      correctAnswer: "a"
     },
     {
       text: `If you are caught 'Goldbricking', what are you doing wrong?
-        A. Stealing
-        B. Cheating
-        C. Slacking
-        D. Smoking`,
-      correctAnswer: "C"
+        a. Stealing
+        b. Cheating
+        c. Slacking
+        d. Smoking`,
+      correctAnswer: "c"
     },
     {
       text: `Earth is located in which galaxy?
-        A. The Black Hole
-        B. The Milky Way Galaxy
-        C. The Mars Galaxy
-        D. The Galaxy Note`,
-      correctAnswer: "B"
+        a. The Black Hole
+        b. The Milky Way Galaxy
+        c. The Mars Galaxy
+        d. The Galaxy Note`,
+      correctAnswer: "b"
     },
     {
       text: `What are Panama hats made out of?
-        A. Silk
-        B. Hemp
-        C. Flax
-        D. Straw`,
-      correctAnswer: "D"
+        a. Silk
+        b. Hemp
+        c. Flax
+        d. Straw`,
+      correctAnswer: "d"
     },
     {
       text: `What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?
-        A. Jet
-        B. Space Capsule
-        C. Helicopter
-        D. Stealth Blimp`,
-      correctAnswer: "C"
+        a. Jet
+        b. Space Capsule
+        c. Helicopter
+        d. Stealth Blimp`,
+      correctAnswer: "c"
+    },
+    {
+      text: `🎇BONUS!🎇 How long is New Zealand’s Ninety Mile Beach?
+        a. 9 Miles
+        b. 90 Miles
+        c. 99 Miles
+        d. 55 Miles`,
+      correctAnswer: "d"
     }
   ]

@@ -5,8 +5,8 @@ let userScore = 0
 let playAgain = true
 
 function playGame() {
-    let userProceed = window.prompt('Alright ' + userName + ', are you ready? Y or N')
-    if(userProceed === 'Y') {
+    let userProceed = window.prompt('Alright ' + userName + ', are you ready? y or n')
+    if(userProceed === 'y') {
         userReady = true
         window.alert("We'll see about that 😑")
 
@@ -30,8 +30,8 @@ window.alert('You are this smart --> '+userScore)
 }
 while (playAgain === true) {
     playGame ()
-    let userChoice = window.prompt('Would you like to try that again? Y or N')
-    if(userChoice === 'Y') {
+    let userChoice = window.prompt('Would you like to try that again? y or n')
+    if(userChoice === 'y') {
          playAgian = true
          userScore = 0
          window.alert ("Let's goooo!!! 🤗")
