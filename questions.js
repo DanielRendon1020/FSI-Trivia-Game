@@ -34,8 +34,8 @@ let questions = [
     {
       text: `Which restaurant's mascot is a clown?
         A. Chick-Fil-A
-        B. Sonic
-        C. McDonald's
+        B. Snaonic
+        C. McDold's
         D. Whataburger`,
       correctAnswer: "C"
     },
